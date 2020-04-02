@@ -18,6 +18,7 @@ MalariaLeakyReLU.ipnb
 Modified VGG model with a Leaky ReLU achieved
 
 Train accuracy of 99.22%
+
 Test accuracy of 96.34%
 
                 precision    recall  f1-score   support
@@ -33,6 +34,7 @@ Confusion Matrix:
  128    2641
  
 Sensitivity: 0.973022 
+
 Specificity: 0.953774 
 
 
