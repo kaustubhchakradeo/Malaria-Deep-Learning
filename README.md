@@ -30,9 +30,8 @@ Test accuracy of 96.34%
 
 Confusion Matrix: 
 
- 2669   74
- 
- 128    2641
+  [[2669   74]
+ [ 128 2641]]
  
 Sensitivity: 0.973022 
 
