@@ -26,11 +26,7 @@ Test accuracy of 96.34%
            0       0.95      0.97      0.96      2743
            1       0.97      0.95      0.96      2769
            
-accuracy                               0.96      5512
 
-macro avg          0.96      0.96      0.96      5512
-
-weighted avg       0.96      0.96      0.96      5512
 
 Confusion Matrix: 
 
