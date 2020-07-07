@@ -1,6 +1,7 @@
 # Malaria-Deep-Learning
 
 Malaria is a serious disease which affects hundredsof millions of people around the world, each year. If not treatedin time, it can be fatal. Despite of recent developments in malariadiagnostics,   the   microscopy   method   to   detect   malaria   staysthe  most  common.  Unfortunately,  the  accuracy  of  microscopicdiagnostics is dependent on the skill of the microscopist and limitsthe  throughput  of  diagnosing  malaria. Using deep learning methods to detect malaria helps in increasing the accuracy and reduce costs required for detection. This repository documents research work done towards detection of Malaria on thin smears, using Deep Learning.
+
 We used different existing deep learning models like VGG, AlexNet, ResNet, and our own CNN model to detect malaria on thin smears. Our CNN outperformed the pretrained models and the models used in existing literature. The  dataset  was  taken  from  the  Lister  Hill  National  Cen-tre  for  Biomedical  Communications  —  National  Library  ofMedicine. The dataset is divided into two folders, Parasitized, and  Uninfected,  each  containing 13,779 images. You can download the dataset here- https://lhncbc.nlm.nih.gov/publication/pub9932. We found that some images in the dataset were mislabeled,  poorly  segmented,  or contained impurities. These were labelled correctly or removed in some cases. You can download the improved dataset here- INSERT LINK HERE.
 
 All work was done using-
@@ -53,3 +54,12 @@ Results comparison with other literature
 ![Results](../master/PLOTS/Table_Results.png)
 
 
+
+
+**About the authors-**
+
+K.~Chakradeo is with Radboud University, Nijmegenn The Netherlands. e-mail: chakradeokaustubh@gmail.com
+
+S. Titarenko is with School of Computing and Engineering, University of Huddersfield, Queensgate, Huddersfield HD1 3DH, UK. e-mail: S. Titarenko@hud.ac.uk 
+
+M. Delves is with London School of Hygiene and Tropical Medicine, UK. e-mail: Michael.Delves@lshtm.ac.uk
