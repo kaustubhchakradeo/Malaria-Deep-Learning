@@ -39,5 +39,5 @@ Specificity: 0.9871
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Results](../master/PLOTS/Table_Results.png)
 
