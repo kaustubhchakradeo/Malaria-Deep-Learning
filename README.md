@@ -5,12 +5,19 @@ We used different existing deep learning models like VGG, AlexNet, ResNet, and o
 
 All work was done using-
 Ubuntu 18.04 OS
+
 CPU- Intel Core i5 9300H @2,40GHz with 16 GB RAM
+
 GPU- NVIDIA GTX1660t with 6 GB RAM
+
 Driver Version 440.33.01
+
 Cuda Version 10.2
+
 Tensorflow Version 2.0.0 with cuDNN 7.1
+
 Python 3.8.6 with Keras 2.1.1
+
 Jupyter Notebook version 6.0.3
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -41,7 +48,8 @@ Sensitivity: 0.9768
 Specificity: 0.9871 
 
 ----------------------------------------------------------------------------------------------------------------------------------
+Results comparison with other literature
 
 ![Results](../master/PLOTS/Table_Results.png)
-Results comparison with other literature
+
 
