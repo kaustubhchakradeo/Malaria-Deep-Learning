@@ -58,7 +58,7 @@ Results comparison with other literature
 
 **About the authors-**
 
-K.~Chakradeo is with Radboud University, Nijmegen, The Netherlands. e-mail: chakradeokaustubh@gmail.com
+K.~Chakradeo is with the University of Copenhagen, Denmark. e-mail: chakradeokaustubh@gmail.com
 
 S. Titarenko is with School of Computing and Engineering, University of Huddersfield, Queensgate, Huddersfield HD1 3DH, UK. e-mail: S. Titarenko@hud.ac.uk 
 
